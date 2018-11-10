@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/samhstn/elm-time-format.svg?branch=master)](https://travis-ci.org/samhstn/elm-time-format)
+[![Build Status](https://travis-ci.org/samhstn/time-format.svg?branch=master)](https://travis-ci.org/samhstn/time-format)
 
 # Elm Time Format
 
