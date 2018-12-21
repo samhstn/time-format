@@ -3,8 +3,7 @@ sudo: false
 node_js:
   - 10
 install:
-  # elm-test@beta should be updated once https://github.com/elm-explorations/test/issues/28 is addressed
-  - npm install -g elm elm-format elm-test@beta
+  - npm install -g elm elm-format elm-test
 script:
   - elm-format --validate tests
   - elm-format --validate src
