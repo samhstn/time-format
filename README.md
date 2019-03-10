@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/samhstn/time-format.svg?branch=master)](https://travis-ci.org/samhstn/time-format)
 
-# Elm Time Format
+# Elm Time Format
 
 ### Installation
 
