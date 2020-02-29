@@ -5,7 +5,7 @@
 ### Installation
 
 ```bash
-elm install samhstn/format-time
+elm install samhstn/time-format
 ```
 
 ### Documentation
